@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <db>
+        <servidor>10.55.210.49:1433</servidor>
+        <nombre>FIDE</nombre>
+        <usuario>DMARTINEZ</usuario>
+        <password>DMARTINEZ</password>
+        <tipo>MSSQL</tipo>
+    </db>
+    <configuracion_email>
+        <iniciotls_habilitado>false</iniciotls_habilitado>
+        <servidor_smtp>10.55.210.34</servidor_smtp>
+        <puerto_smtp>25</puerto_smtp>
+        <usuario_smtp>noresponder@fide.org.mx</usuario_smtp>
+        <password_smtp>noresponder</password_smtp>
+    </configuracion_email>      
+</configuracion>
